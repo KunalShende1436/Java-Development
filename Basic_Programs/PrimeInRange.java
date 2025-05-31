@@ -1,3 +1,4 @@
+package Basic_Programs;
 public class PrimeInRange {
     public static boolean isPrime(int n)
     {

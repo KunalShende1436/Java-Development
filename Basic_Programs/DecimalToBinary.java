@@ -1,3 +1,4 @@
+package Basic_Programs;
 public class DecimalToBinary {
     public static void findBinary(int DecimalNum){
         int BinaryNum=0;

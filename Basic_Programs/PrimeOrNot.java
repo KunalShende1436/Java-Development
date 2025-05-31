@@ -1,3 +1,4 @@
+package Basic_Programs;
 public class PrimeOrNot {
     public static void Prime(int n)
     {

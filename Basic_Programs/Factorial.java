@@ -1,3 +1,4 @@
+package Basic_Programs;
 public class Factorial {
 
     public static int Fact(int n) {

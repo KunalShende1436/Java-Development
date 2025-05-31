@@ -32,7 +32,7 @@ public static void subArray(int arr[]){
     }        
     public static void main(String[] args) {
         int arr[]={1,-2,6,-1,3};
-        // System.out.println("The subarrays in the array are:");
+        System.out.println("The subarrays in the array are:");
         subArray(arr);
     }    
     
