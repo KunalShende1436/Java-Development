@@ -1,3 +1,4 @@
+package Patterns;
 public class FLOYDS_Triangle_Pattern {
     public static void FLOYDS_Triangle(int n){
         int count=1;

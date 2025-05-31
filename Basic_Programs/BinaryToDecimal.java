@@ -1,3 +1,4 @@
+package Basic_Programs;
 public class BinaryToDecimal {
     public static void findDecimal(int BinaryNum)
     {

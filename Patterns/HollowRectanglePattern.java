@@ -1,3 +1,4 @@
+package Patterns;
 public class HollowRectanglePattern {
     public static void createHollowRectangle(int rows , int cols){
         for(int i=1;i<=rows;i++){

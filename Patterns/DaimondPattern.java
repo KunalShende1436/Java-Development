@@ -1,3 +1,4 @@
+package Patterns;
 public class DaimondPattern {
     public static void Daimond(int n)
     {

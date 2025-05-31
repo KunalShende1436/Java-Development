@@ -1,3 +1,4 @@
+package Array;
 public class PairsInArray {
     public static void pairs(int arr[]){
         for(int i=0;i<arr.length;i++)

@@ -1,3 +1,4 @@
+package Patterns;
 public class Zero_OneTriangle {
     public static void Zero_One_Triangle(int n) {
         for(int i=1;i<n;i++){

@@ -1,3 +1,4 @@
+package Patterns;
 public class InvetedHalfPyramid_withNum {
     public static void InvertedHalfPyramid(int n){
         for(int i =1;i<=n;i++){

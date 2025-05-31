@@ -1,3 +1,4 @@
+package Array;
 public class SmallestNumArray {
     
     public  static int Smallest(int arr[]){
