@@ -3,7 +3,7 @@ package Array;
 public class DSAQuestion_TrapingRainwater {
     public static void TrappedWater(int[] height, int width)
     {
-         
+        //LOGIC 
         // calculate left max for each element
         int[] L_max= new int[height.length];
         L_max[0] = height[0];
@@ -39,5 +39,8 @@ public class DSAQuestion_TrapingRainwater {
         int[]height={4,2,0,6,3,2,5};
         int width = 1; 
         TrappedWater(height,width);
+        int[]height2={1,0,2,1,0,1,3,2,1,2,1};
+        int width2 = 1;
+        TrappedWater(height2,width2);
     }
 }
