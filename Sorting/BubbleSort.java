@@ -35,5 +35,5 @@ public class BubbleSort {
         int [] arr2={1,2,3,4,5};
         bubbleSort(arr2);
 
-    }
+    } 
 }
